@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lucky Dewangan</h1>
 <h3 align="center">I am a frontend developer with good command on HTML5, CSS3, javascript, and React.</h3>
+<br><br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewlucky" alt="dewlucky" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/DewLucky/Developer-portfolio)
 
@@ -27,6 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dewlucky&" alt="dewlucky" /></p>
 
-<br><br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewlucky" alt="dewlucky" /></a> </p>
