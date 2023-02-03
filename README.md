@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucky Dewangan</h1>
 <h3 align="center">I am a frontend developer with good command on HTML5, CSS3, javascript, and React.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewlucky" alt="dewlucky" /></a> </p>
-
 - 🔭 I’m currently working on [My Portfolio](https://github.com/DewLucky/Developer-portfolio)
 
 - 🌱 I’m currently learning **backend technologies Node.js, Express, and MongoDB.**
