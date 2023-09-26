@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewlucky" alt="dewlucky" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/DewLucky/Developer-portfolio)
+- 🔭 I’m currently working on [DewSocials](https://github.com/DewLucky/DewSocials)
 
 - 🌱 I’m currently learning **backend technologies Node.js, Express, and MongoDB.**
 
