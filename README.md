@@ -2,7 +2,7 @@
 <h3 align="center">I am a frontend developer with good command on HTML5, CSS3, javascript, and React.</h3>
 <br><br>
 
-<p align="center"> <a href="https://github.com/DewLucky/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewlucky&theme=dracula&row=2&column=3" alt="dewlucky" /></a> </p>
+<p align="center"> <a href="https://github.com/DewLucky/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewlucky&theme=dracula&row=2&column=4" alt="dewlucky" /></a> </p>
 <br>
 
 - 🔭 I’m currently working on [DewSocials](https://github.com/DewLucky/DewSocials)
