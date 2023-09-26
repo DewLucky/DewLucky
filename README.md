@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **luckydewangan791@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VkV84limNS7RwQxMgmdRvubvswcHvlN0/view?usp=sharing](https://drive.google.com/file/d/1VkV84limNS7RwQxMgmdRvubvswcHvlN0/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1VkV84limNS7RwQxMgmdRvubvswcHvlN0/view?usp=sharing](https://drive.google.com/file/d/1VkV84limNS7RwQxMgmdRvubvswcHvlN0/view?usp=sharing)
 
-- ⚡ Fun fact **I think sometimes I am extremely introvert but I transform myself to according environment needs.**
+- ⚡ Fun fact **Sometimes imposter syndrom hits me very hard but all I learned is never compare your day 1 to someone's day 100.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
