@@ -2,7 +2,7 @@
 <h3 align="center">I am a frontend developer with good command on HTML5, CSS3, javascript, and React.</h3>
 <br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DewLucky)](https://github.com/DewLucky/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DewLucky&theme=onedark)](https://github.com/DewLucky/github-profile-trophy)
 <br>
 
 - 🔭 I’m currently working on [DewSocials](https://github.com/DewLucky/DewSocials)
