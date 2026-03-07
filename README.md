@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DewLucky">
-    <img src="https://lucky-dewangan.vercel.app/assets/profile-picture.png" width="200" alt="dewlucky" />
+    <img src="https://lucky-dewangan.vercel.app/assets/developer-logo.png" width="200" alt="dewlucky" />
   </a>
 </p>
 <br>
