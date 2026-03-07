@@ -9,13 +9,13 @@
 </p>
 <br>
 
-- 🔭 I’m a working professional at [PharmaACE].
+- 🔭 I’m a working professional at PharmaACE.
 
 - 🌱 I’m currently learning data engineering.**
 
 - 👨‍💻 All of my projects are available at [https://lucky-dewangan.vercel.app/](https://lucky-dewangan.vercel.app/)
 
-- 📫 Reach out to me **luckydewangan791@gmail.com**
+- 📫 Reach out to me **[LinkedIn](https://www.linkedin.com/in/lucky-dewangan/)**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-Y5gLqqygoyTAlHXHn3z5zl1iU5G-QeN/view?usp=drive_link)
 
