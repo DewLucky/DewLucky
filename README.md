@@ -13,7 +13,7 @@
 
 - 📫 Reach out to me **luckydewangan791@gmail.com**
 
-- 📄 Know about my experiences [Resume Link]([https://drive.google.com/file/d/1QFaC8zhX2cvpDiJrKzkIY_CBW_52Crgo/view?usp=sharing](https://drive.google.com/file/d/1jShLTB0kDvFeJ-nYAAPkKG8emxov2Hlf/view?usp=sharing))
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1QFaC8zhX2cvpDiJrKzkIY_CBW_52Crgo/view?usp=sharing](https://drive.google.com/file/d/1jShLTB0kDvFeJ-nYAAPkKG8emxov2Hlf/view?usp=sharing)
 
 - ⚡ Fun fact **Sometimes imposter syndrom hits me very hard but all I learned is never compare your day 1 to someone's day 100.**
 
