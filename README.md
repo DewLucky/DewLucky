@@ -11,7 +11,7 @@
 
 - 🔭 I’m a working professional at PharmaACE.
 
-- 🌱 I’m currently learning data engineering.**
+- 🌱 I’m currently learning data engineering.
 
 - 👨‍💻 All of my projects are available at [https://lucky-dewangan.vercel.app/](https://lucky-dewangan.vercel.app/)
 
