@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Lucky Dewangan</h1>
-<h3 align="center">I am a frontend developer with good command on HTML5, CSS3, javascript, and React.</h3>
+<h3 align="center">I am a Data Analyst with strong command on SQL, Python, Snowflake and Excel.</h3>
 <br><br>
 
 <p align="center"> <a href="https://github.com/DewLucky/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewlucky&theme=dracula&row=2&column=3" alt="dewlucky" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on [DewSocials](https://github.com/DewLucky/DewSocials)
+- 🔭 I’m a working professional at [PharmaACE].
 
-- 🌱 I’m currently learning **backend technologies Node.js, Express, and MongoDB.**
+- 🌱 I’m currently learning data engineering.**
 
 - 👨‍💻 All of my projects are available at [https://lucky-dewangan.vercel.app/](https://lucky-dewangan.vercel.app/)
 
-- 📫 How to reach me **luckydewangan791@gmail.com**
+- 📫 Reach out to me **luckydewangan791@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1QFaC8zhX2cvpDiJrKzkIY_CBW_52Crgo/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link]([https://drive.google.com/file/d/1QFaC8zhX2cvpDiJrKzkIY_CBW_52Crgo/view?usp=sharing](https://drive.google.com/file/d/1jShLTB0kDvFeJ-nYAAPkKG8emxov2Hlf/view?usp=sharing))
 
 - ⚡ Fun fact **Sometimes imposter syndrom hits me very hard but all I learned is never compare your day 1 to someone's day 100.**
 
