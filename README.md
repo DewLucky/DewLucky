@@ -2,12 +2,12 @@
 <h3 align="center">I am a Data Analyst with strong command on SQL, Python, Snowflake and Excel.</h3>
 <br><br>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DewLucky">
     <img src="https://media.licdn.com/dms/image/v2/D4D03AQH_2oKp5qDyVQ/profile-displayphoto-scale_200_200/B4DZyFLsGFH4AY-/0/1771760961978?e=1774483200&v=beta&t=RyA_KbskUvfZRzHzDZVDNcvMNgwKNaNNE5Wqw4omiFE" width="200" alt="dewlucky" />
   </a>
 </p>
-<br>
+<br> -->
 
 - 🔭 I’m a working professional at PharmaACE.
 
