@@ -2,7 +2,7 @@
 <h3 align="center">I am a Data Analyst with strong command on SQL, Python, Snowflake and Excel.</h3>
 <br><br>
 
-<p align="center"> <a href="https://github.com/DewLucky/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dewlucky&theme=dracula&row=2&column=3" alt="dewlucky" /></a> </p>
+<p align="center"> <a href="https://github.com/DewLucky/github-profile-trophy"><img src="https://lucky-dewangan.vercel.app/assets/profile-picture.png&theme=dracula&row=2&column=3" alt="dewlucky" /></a> </p>
 <br>
 
 - 🔭 I’m a working professional at [PharmaACE].
@@ -13,7 +13,7 @@
 
 - 📫 Reach out to me **luckydewangan791@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1QFaC8zhX2cvpDiJrKzkIY_CBW_52Crgo/view?usp=sharing](https://drive.google.com/file/d/1jShLTB0kDvFeJ-nYAAPkKG8emxov2Hlf/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-Y5gLqqygoyTAlHXHn3z5zl1iU5G-QeN/view?usp=drive_link)
 
 - ⚡ Fun fact **Sometimes imposter syndrom hits me very hard but all I learned is never compare your day 1 to someone's day 100.**
 
