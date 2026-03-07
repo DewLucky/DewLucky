@@ -2,7 +2,11 @@
 <h3 align="center">I am a Data Analyst with strong command on SQL, Python, Snowflake and Excel.</h3>
 <br><br>
 
-<p align="center"><img src="https://lucky-dewangan.vercel.app/assets/profile-picture.png&row=2&column=3" alt="dewlucky" /></a> </p>
+<p align="center">
+  <a href="https://github.com/DewLucky">
+    <img src="https://lucky-dewangan.vercel.app/assets/profile-picture.png" width="200" alt="dewlucky" />
+  </a>
+</p>
 <br>
 
 - 🔭 I’m a working professional at [PharmaACE].
